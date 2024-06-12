@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+}
+main{
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
+header{
+    text-align: center;
+}
+.logo{
+    background-color: #FDFBF1;
+    border-top: 3px solid #FEF7E3;
+}
+.image{
+    color: #D6D6D6;
+}
+.fatured{
+    color: #DBA58B;
+}
+.link{
+    color: #79B1B1;
+}
+ul, ol{
+    display: inline-block;    
+}
+li{
+    text-align: justify;
+}
